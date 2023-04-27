@@ -16,12 +16,7 @@ public class Main {
         int operacoes = 0;
 
         System.out.println("\n****************************");
-        System.out.println("" +
-                "");
         System.out.println("DESAFIO ALURA CONTROLE BANCARAIO");
-
-        System.out.println("" +
-                "");
 
         System.out.println("Nome do cliente:" + nome);
 
